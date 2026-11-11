@@ -1,0 +1,24 @@
+
+# Java compiled files
+*.class
+
+# Local database and SQLite files
+messenger.db
+*.db-shm
+*.db-wal
+
+# Build folders
+build/
+dist/
+package-input/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
